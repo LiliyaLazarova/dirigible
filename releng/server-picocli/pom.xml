@@ -169,7 +169,7 @@
 	<properties>
 		<spring.boot.version>2.5.4</spring.boot.version>
 		<picocli.version>3.9.6</picocli.version>
-		<webjars-locator>0.30</webjars-locator>
+		<webjars-locator>0.46</webjars-locator>
 		<license.header.location>../../licensing-header.txt</license.header.location>
 	</properties>
 
